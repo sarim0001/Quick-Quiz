@@ -1,0 +1,537 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "HTML",
+      "question": "What does HTML stand for?",
+      "correct_answer": "HyperText Markup Language",
+      "incorrect_answers": [
+        "HyperTransfer Markup Language",
+        "HyperText Markdown Language",
+        "HyperTool Multi Language"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "HTML",
+      "question": "Which HTML tag is used to define an unordered list?",
+      "correct_answer": "<ul>",
+      "incorrect_answers": ["<ol>", "<li>", "<list>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "HTML",
+      "question": "Which attribute is used to provide an alternative text for an image?",
+      "correct_answer": "alt",
+      "incorrect_answers": ["title", "src", "href"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "Which HTML tag is used to define a table row?",
+      "correct_answer": "<tr>",
+      "incorrect_answers": ["<th>", "<td>", "<table>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "HTML",
+      "question": "Which HTML element is used to define the document's header section?",
+      "correct_answer": "<header>",
+      "incorrect_answers": ["<head>", "<top>", "<section>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "HTML",
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "correct_answer": "<a>",
+      "incorrect_answers": ["<link>", "<href>", "<hyperlink>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "Which HTML5 element is used to specify a footer for a document or section?",
+      "correct_answer": "<footer>",
+      "incorrect_answers": ["<bottom>", "<section>", "<end>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "What is the correct HTML element for inserting a line break?",
+      "correct_answer": "<br>",
+      "incorrect_answers": ["<break>", "<lb>", "<newline>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "Which HTML attribute specifies an inline style for an element?",
+      "correct_answer": "style",
+      "incorrect_answers": ["css", "class", "design"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "HTML",
+      "question": "Which HTML5 tag is used for playback of video files?",
+      "correct_answer": "<video>",
+      "incorrect_answers": ["<media>", "<movie>", "<play>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "HTML",
+      "question": "Which attribute in HTML is used to specify that an input field must be filled out?",
+      "correct_answer": "required",
+      "incorrect_answers": ["mandatory", "validate", "important"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "Which HTML element is used to specify a header cell in a table?",
+      "correct_answer": "<th>",
+      "incorrect_answers": ["<thead>", "<header>", "<td>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "What is the correct HTML for creating a checkbox?",
+      "correct_answer": "<input type=\"checkbox\">",
+      "incorrect_answers": ["<checkbox>", "<input type=\"check\">", "<check>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "HTML",
+      "question": "Which HTML5 element defines navigation links?",
+      "correct_answer": "<nav>",
+      "incorrect_answers": ["<navigate>", "<navigation>", "<menu>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "HTML",
+      "question": "Which HTML element is used for creating interactive controls?",
+      "correct_answer": "<form>",
+      "incorrect_answers": ["<input>", "<control>", "<interactive>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "What does the DOCTYPE declaration do?",
+      "correct_answer": "Specifies the document type and version of HTML",
+      "incorrect_answers": [
+        "Creates a new HTML document",
+        "Links external resources",
+        "Defines the root element"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "What is the purpose of the HTML <canvas> element?",
+      "correct_answer": "Draw graphics via JavaScript",
+      "incorrect_answers": [
+        "Create input fields",
+        "Display images",
+        "Format text"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "HTML",
+      "question": "Which HTML5 input type validates that the input is a valid email address?",
+      "correct_answer": "<input type=\"email\">",
+      "incorrect_answers": [
+        "<input type=\"mail\">",
+        "<input type=\"address\">",
+        "<input validate=\"email\">"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "Which HTML element defines the title of a document?",
+      "correct_answer": "<title>",
+      "incorrect_answers": ["<head>", "<heading>", "<h1>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "HTML",
+      "question": "What is the purpose of the target attribute in an anchor tag?",
+      "correct_answer": "Specifies where to open the linked document",
+      "incorrect_answers": [
+        "Specifies the URL of the page",
+        "Defines the link text",
+        "Sets a bookmark within the page"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "CSS",
+      "question": "What does CSS stand for?",
+      "correct_answer": "Cascading Style Sheets",
+      "incorrect_answers": [
+        "Colorful Style Sheets",
+        "Creative Style Sheets",
+        "Computer Style Sheets"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "CSS",
+      "question": "Which property is used to change the background color in CSS?",
+      "correct_answer": "background-color",
+      "incorrect_answers": ["color", "bgcolor", "background"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which CSS property is used to make text bold?",
+      "correct_answer": "font-weight",
+      "incorrect_answers": ["text-bold", "bold", "font-style"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which CSS selector targets elements with a specific class?",
+      "correct_answer": ".classname",
+      "incorrect_answers": ["#classname", "*classname", "&classname"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "CSS",
+      "question": "Which CSS property controls the text size?",
+      "correct_answer": "font-size",
+      "incorrect_answers": ["text-size", "font-style", "text-style"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which CSS property is used to create space between the element's border and content?",
+      "correct_answer": "padding",
+      "incorrect_answers": ["margin", "spacing", "border-spacing"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which CSS property is used to create space around elements?",
+      "correct_answer": "margin",
+      "incorrect_answers": ["padding", "border", "spacing"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which CSS property controls the text color?",
+      "correct_answer": "color",
+      "incorrect_answers": ["text-color", "font-color", "text-style"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "Which CSS property is used to add shadows to elements?",
+      "correct_answer": "box-shadow",
+      "incorrect_answers": ["shadow", "element-shadow", "text-shadow"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "What does the z-index property determine?",
+      "correct_answer": "The stacking order of elements",
+      "incorrect_answers": [
+        "The transparency of elements",
+        "The horizontal position",
+        "The dimensions of elements"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "Which CSS property is used to create rounded corners?",
+      "correct_answer": "border-radius",
+      "incorrect_answers": ["corner-radius", "rounded-corners", "border-curve"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which value of the 'position' property makes an element positioned relative to its normal position?",
+      "correct_answer": "relative",
+      "incorrect_answers": ["absolute", "fixed", "static"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "How do you select an element with the ID 'demo'?",
+      "correct_answer": "#demo",
+      "incorrect_answers": [".demo", "demo", "*demo"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "Which pseudo-class is used to select elements when the mouse hovers over them?",
+      "correct_answer": ":hover",
+      "incorrect_answers": [":mouseover", ":active", ":focus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "Which CSS property determines how flex items are placed in the flex container?",
+      "correct_answer": "flex-direction",
+      "incorrect_answers": ["flex-wrap", "justify-content", "align-items"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "What does the '@media' rule do in CSS?",
+      "correct_answer": "Applies different styles for different devices/screen sizes",
+      "incorrect_answers": [
+        "Imports other style sheets",
+        "Creates animations",
+        "Defines printer-friendly styles only"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "CSS",
+      "question": "Which CSS property specifies the type of cursor to be displayed?",
+      "correct_answer": "cursor",
+      "incorrect_answers": ["pointer", "mouse", "cursor-style"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "Which CSS property specifies the stack order of an element?",
+      "correct_answer": "z-index",
+      "incorrect_answers": ["layer-index", "stack-order", "position-index"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "CSS",
+      "question": "Which CSS property creates a transition effect?",
+      "correct_answer": "transition",
+      "incorrect_answers": ["animation", "transform", "motion"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "correct_answer": "var",
+      "incorrect_answers": ["int", "string", "declare"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What is the correct syntax to print something in the console?",
+      "correct_answer": "console.log()",
+      "incorrect_answers": ["print()", "echo()", "log.console()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "How do you create a function in JavaScript?",
+      "correct_answer": "function myFunction() {}",
+      "incorrect_answers": [
+        "def myFunction() {}",
+        "func myFunction() {}",
+        "create function myFunction() {}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which method is used to add an element at the end of an array?",
+      "correct_answer": "push()",
+      "incorrect_answers": ["append()", "add()", "insert()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which operator is used to compare both value and type?",
+      "correct_answer": "===",
+      "incorrect_answers": ["==", "!=", "!=="]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What will `typeof null` return in JavaScript?",
+      "correct_answer": "object",
+      "incorrect_answers": ["null", "undefined", "string"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which function is used to parse a string to an integer in JavaScript?",
+      "correct_answer": "parseInt()",
+      "incorrect_answers": ["parseInteger()", "toInt()", "intParse()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "JavaScript",
+      "question": "What is the correct way to write a JavaScript array?",
+      "correct_answer": "var colors = [\"red\", \"green\", \"blue\"]",
+      "incorrect_answers": [
+        "var colors = \"red\", \"green\", \"blue\"",
+        "var colors = (1:\"red\", 2:\"green\", 3:\"blue\")",
+        "var colors = 1=\"red\", 2=\"green\", 3=\"blue\""
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which JavaScript method is used to remove the last element from an array?",
+      "correct_answer": "pop()",
+      "incorrect_answers": ["shift()", "removeLast()", "delete()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "How do you round the number 7.25, to the nearest integer?",
+      "correct_answer": "Math.round(7.25)",
+      "incorrect_answers": ["round(7.25)", "Math.rnd(7.25)", "rnd(7.25)"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "correct_answer": "onclick",
+      "incorrect_answers": ["onmouseover", "onchange", "onmouseclick"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the output of '2' + 2 in JavaScript?",
+      "correct_answer": "\"22\"",
+      "incorrect_answers": ["4", "\"4\"", "Error"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What will the following code return: Boolean(10 > 9)?",
+      "correct_answer": "true",
+      "incorrect_answers": ["false", "NaN", "undefined"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which method converts a JavaScript object into a JSON string?",
+      "correct_answer": "JSON.stringify()",
+      "incorrect_answers": [
+        "JSON.parse()",
+        "Object.toString()",
+        "JSON.toText()"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'this' keyword in JavaScript?",
+      "correct_answer": "It refers to the object it belongs to",
+      "incorrect_answers": [
+        "It refers to the previous object",
+        "It refers to a variable",
+        "It is a reserved word with no meaning"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is a closure in JavaScript?",
+      "correct_answer": "A function having access to the parent scope, even after the parent function has closed",
+      "incorrect_answers": [
+        "A way to close a browser window",
+        "A method to terminate a loop",
+        "A property of the global object"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'Promise' object in JavaScript?",
+      "correct_answer": "To handle asynchronous operations",
+      "incorrect_answers": [
+        "To promise a value to a variable",
+        "To secure private data",
+        "To improve code readability"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "How do you declare a JavaScript variable?",
+      "correct_answer": "var x = 5;",
+      "incorrect_answers": ["v x = 5;", "variable x = 5;", "x = 5;"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "JavaScript",
+      "question": "What is the correct way to write an IF statement in JavaScript?",
+      "correct_answer": "if (x === 5) {...}",
+      "incorrect_answers": [
+        "if x = 5 {...}",
+        "if x === 5 then {...}",
+        "if (x = 5) {...}"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "JavaScript",
+      "question": "Which method is used to remove the first element of an array in JavaScript?",
+      "correct_answer": "shift()",
+      "incorrect_answers": ["unshift()", "pop()", "removeFirst()"]
+    }
+  ]
+}
