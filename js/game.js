@@ -17,7 +17,7 @@ let correctAnswers = 0; // Track correct answers for percentage calculation
 let questions = [];
 
 // Fetch questions from API
-fetch("https://github.com/sarim0001/Quick-Quiz/blob/main/js/questions.json")
+fetch("https://raw.githubusercontent.com/sarim0001/Quick-Quiz/main/js/questions.json")
   .then((res) => {
     return res.json();
   })
